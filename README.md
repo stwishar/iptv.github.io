@@ -4,4 +4,6 @@
 
 魔百盒c311-1a.tivimate4.7
 
-节目预告：http://epg.51zmt.top:8000/e.xml
+节目预告：
+http://epg.51zmt.top:8000/e.xml
+https://epg.112114.xyz/pp.xml
